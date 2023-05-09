@@ -4,7 +4,7 @@
 - 💻 I,am Owner of FARZAD TEAM
 
 ![image](https://discord.c99.nl/widget/theme-2/1032576510961385472.png)
-
+---
 <a href="https://www.coffeebede.com/farzad13"><img class="img-fluid" src="https://coffeebede.ir/DashboardTemplateV2/app-assets/images/banner/default-yellow.svg" /></a>
 ---
 - ☕ [donate me a coffee](https://www.coffeebede.com/farzad13)
